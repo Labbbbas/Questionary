@@ -1,0 +1,2 @@
+# Triviarama
+Trabajen esclavos
