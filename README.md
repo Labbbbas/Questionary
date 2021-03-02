@@ -1,2 +1,2 @@
-# Triviarama
+# Questionary
 Trabajen esclavos
